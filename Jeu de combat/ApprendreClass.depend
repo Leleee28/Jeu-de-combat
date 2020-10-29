@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1604007358 source:d:\informatique\c++\apprendreclass\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Perso.h"
+
+1604007313 source:d:\informatique\c++\apprendreclass\src\perso.cpp
+	"Perso.h"
+	<iostream>
+
+1604006611 d:\informatique\c++\apprendreclass\include\perso.h
+	<string>
+
